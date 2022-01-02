@@ -1,0 +1,14 @@
+.title {
+  color: black;
+}
+
+.imgPoster {
+  height: 400px;
+  margin-right: 20px;
+}
+
+.movieInfo {
+  display: flex;
+  color: black;
+  font-size: 20px;
+}
